@@ -1,6 +1,6 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=009dff&height=120&text=OhJiHun's%20Profile&animation=twinkling&fontColor=ffffff&fontSize=40" />
-</div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{devhooni}?pet-id=1" width="1000" height="120"/>
+</a>
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px;"> Introduce </h2>  
