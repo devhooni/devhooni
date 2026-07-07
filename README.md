@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-  <img height="200px" src="https://render.gitanimals.org/farms/SID12g"/>
+  <img height="200px" src="https://render.gitanimals.org/farms/devhooni"/>
   </a>
 </div>
 <div style="text-align: left;"> 
