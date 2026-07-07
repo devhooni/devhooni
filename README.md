@@ -5,7 +5,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px;"> Introduce </h2>  
     <div style="font-weight: 700; font-size: 16px; text-align: left; color: #c9d1d9; line-height: 1.5;"> 
-        홍익대 컴퓨터공학과에 재학중인 오지훈입니다. 현재 웹개발을 공부하고있습니다.
+        홍익대 컴퓨터공학과에 재학중인 오지훈입니다. 현재 웹개발과 네트워크를 공부하고 있습니다.
     </div> 
 </div>
 
