@@ -1,7 +1,8 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{devhooni}"/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+  <img height="200px" src="https://render.gitanimals.org/farms/devhooni"/>
+  </a>
+</div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 8px;"> Introduce </h2>  
     <div style="font-weight: 700; font-size: 16px; text-align: left; color: #c9d1d9; line-height: 1.5;"> 
